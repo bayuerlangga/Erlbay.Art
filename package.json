@@ -1,0 +1,11 @@
+{
+  "name": "erlbay-art",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "scripts": {
+    "media": "node generate-media.js"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

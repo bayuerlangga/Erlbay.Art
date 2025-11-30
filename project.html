@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Project | Bay Portfolio</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+        <!--
+        - favicon
+        -->
+  <link rel="shortcut icon" href="./assets/logo-main.ico" type="image/x-icon">
+
+  <!--Only needed if you use <model-viewer> for 3D -->
+  <script type="module"
+          src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</head>
+<body class="project-page-body">
+  <!-- Top sticky header -->
+  <header class="project-page-header">
+    <div class="project-page-header__inner">
+      <a href="index.html#portfolio" class="project-page-back">← Back to Portfolio</a>
+      <div class="project-page-logo">
+        <span class="project-page-logo__text">Erlbay.art</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN PROJECT LAYOUT -->
+  <main class="project-page">
+    <div class="project-page__layout">
+      <!-- LEFT: media gallery -->
+      <section class="project-page__media-column">
+        <div class="project-media-tabs" id="projectMediaTabs"></div>
+        <div class="project-page__media" id="projectPageMedia"></div>
+      </section>
+      <!-- RIGHT: info panel -->
+      <aside class="project-page__info">
+        <header class="project-info-header">
+          <h1 class="project-info-title" id="projectTitle">Project title</h1>
+          <p class="project-info-meta" id="projectMeta">Category · Year</p>
+          <p class="project-info-status" id="projectStatus"></p>
+        </header>
+
+        <section class="project-info-section">
+          <h2 class="project-info-subtitle">Overview</h2>
+          <p class="project-info-text" id="projectDescription"></p>
+        </section>
+
+        <section class="project-info-section">
+          <h2 class="project-info-subtitle">Role</h2>
+          <p class="project-info-text" id="projectRole"></p>
+        </section>
+
+        <section class="project-info-section">
+          <h2 class="project-info-subtitle">Software Used</h2>
+          <div class="project-info-tags" id="projectTools"></div>
+        </section>
+
+        <section class="project-info-section">
+          <h2 class="project-info-subtitle">Tags</h2>
+          <div class="project-info-tags" id="projectTags"></div>
+        </section>
+
+        <div class="project-nav">
+          <a id="projectPrev" class="project-nav__btn"></a>
+          <a href="index.html#portfolio" class="project-nav__btn">Back to Portfolio</a>
+          <a id="projectNext" class="project-nav__btn"></a>
+        </div>
+      </aside>
+    </div>
+  </main>
+  <div class="project-lightbox" id="projectLightbox" aria-hidden="true">
+      <div class="project-lightbox__backdrop"></div>
+
+      <div class="project-lightbox__content">
+        <button class="project-lightbox__close" type="button" aria-label="Close fullscreen view">
+          ×
+        </button>
+
+        <button class="project-lightbox__nav project-lightbox__nav--prev" type="button" aria-label="Previous media">
+          ‹
+        </button>
+
+        <div class="project-lightbox__media" id="projectLightboxMedia"></div>
+
+        <button class="project-lightbox__nav project-lightbox__nav--next" type="button" aria-label="Next media">
+          ›
+        </button>
+      </div>
+    </div>
+  <!-- SCRIPTS: order matters -->
+  <script src="assets/js/generated-media.js"></script>
+  <script src="assets/js/project-data.js"></script>
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
