@@ -1,144 +1,144 @@
 // Auto-generated. DO NOT edit manually!
-// Generated: 2025-12-02T06:31:31.559Z
+// Generated: 2025-12-02T12:45:24.777Z
 
 window.GENERATED_MEDIA = {
   "sportbot-prop": [
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/1.webp",
+      "src": "assets/images/3d/sportbot/prop/1.webp",
       "title": "sportbot-prop – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/2.webp",
+      "src": "assets/images/3d/sportbot/prop/2.webp",
       "title": "sportbot-prop – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/3.webp",
+      "src": "assets/images/3d/sportbot/prop/3.webp",
       "title": "sportbot-prop – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/4.webp",
+      "src": "assets/images/3d/sportbot/prop/4.webp",
       "title": "sportbot-prop – 4.webp"
     },
     {
       "id": "5",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/5.webp",
+      "src": "assets/images/3d/sportbot/prop/5.webp",
       "title": "sportbot-prop – 5.webp"
     },
     {
       "id": "6",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/6.webp",
+      "src": "assets/images/3d/sportbot/prop/6.webp",
       "title": "sportbot-prop – 6.webp"
     },
     {
       "id": "7",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/7.webp",
+      "src": "assets/images/3d/sportbot/prop/7.webp",
       "title": "sportbot-prop – 7.webp"
     },
     {
       "id": "8",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/8.webp",
+      "src": "assets/images/3d/sportbot/prop/8.webp",
       "title": "sportbot-prop – 8.webp"
     },
     {
       "id": "9",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/9.webp",
+      "src": "assets/images/3d/sportbot/prop/9.webp",
       "title": "sportbot-prop – 9.webp"
     },
     {
       "id": "10",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/10.webp",
+      "src": "assets/images/3d/sportbot/prop/10.webp",
       "title": "sportbot-prop – 10.webp"
     },
     {
       "id": "11",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/11.webp",
+      "src": "assets/images/3d/sportbot/prop/11.webp",
       "title": "sportbot-prop – 11.webp"
     },
     {
       "id": "12",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/12.webp",
+      "src": "assets/images/3d/sportbot/prop/12.webp",
       "title": "sportbot-prop – 12.webp"
     },
     {
       "id": "13",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/13.webp",
+      "src": "assets/images/3d/sportbot/prop/13.webp",
       "title": "sportbot-prop – 13.webp"
     },
     {
       "id": "14",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/14.webp",
+      "src": "assets/images/3d/sportbot/prop/14.webp",
       "title": "sportbot-prop – 14.webp"
     },
     {
       "id": "15",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/15.webp",
+      "src": "assets/images/3d/sportbot/prop/15.webp",
       "title": "sportbot-prop – 15.webp"
     },
     {
       "id": "16",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/16.webp",
+      "src": "assets/images/3d/sportbot/prop/16.webp",
       "title": "sportbot-prop – 16.webp"
     },
     {
       "id": "17",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/17.webp",
+      "src": "assets/images/3d/sportbot/prop/17.webp",
       "title": "sportbot-prop – 17.webp"
     },
     {
       "id": "18",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/18.webp",
+      "src": "assets/images/3d/sportbot/prop/18.webp",
       "title": "sportbot-prop – 18.webp"
     },
     {
       "id": "19",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/19.webp",
+      "src": "assets/images/3d/sportbot/prop/19.webp",
       "title": "sportbot-prop – 19.webp"
     },
     {
       "id": "20",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/20.webp",
+      "src": "assets/images/3d/sportbot/prop/20.webp",
       "title": "sportbot-prop – 20.webp"
     },
     {
       "id": "21",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/21.webp",
+      "src": "assets/images/3d/sportbot/prop/21.webp",
       "title": "sportbot-prop – 21.webp"
     },
     {
       "id": "22",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/22.webp",
+      "src": "assets/images/3d/sportbot/prop/22.webp",
       "title": "sportbot-prop – 22.webp"
     },
     {
       "id": "23",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/23.webp",
+      "src": "assets/images/3d/sportbot/prop/23.webp",
       "title": "sportbot-prop – 23.webp"
     }
   ],
@@ -146,25 +146,25 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/1.webp",
+      "src": "assets/images/3d/sportbot/char/1.webp",
       "title": "sportbot-char – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/2.webp",
+      "src": "assets/images/3d/sportbot/char/2.webp",
       "title": "sportbot-char – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/3.webp",
+      "src": "assets/images/3d/sportbot/char/3.webp",
       "title": "sportbot-char – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/4.webp",
+      "src": "assets/images/3d/sportbot/char/4.webp",
       "title": "sportbot-char – 4.webp"
     }
   ],
@@ -172,49 +172,49 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/1.webp",
+      "src": "assets/images/3d/sportbot/env/1.webp",
       "title": "sportbot-env – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/2.webp",
+      "src": "assets/images/3d/sportbot/env/2.webp",
       "title": "sportbot-env – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/3.webp",
+      "src": "assets/images/3d/sportbot/env/3.webp",
       "title": "sportbot-env – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/4.webp",
+      "src": "assets/images/3d/sportbot/env/4.webp",
       "title": "sportbot-env – 4.webp"
     },
     {
       "id": "5",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/5.webp",
+      "src": "assets/images/3d/sportbot/env/5.webp",
       "title": "sportbot-env – 5.webp"
     },
     {
       "id": "6",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/6.webp",
+      "src": "assets/images/3d/sportbot/env/6.webp",
       "title": "sportbot-env – 6.webp"
     },
     {
       "id": "7",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/7.webp",
+      "src": "assets/images/3d/sportbot/env/7.webp",
       "title": "sportbot-env – 7.webp"
     },
     {
       "id": "8",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/8.webp",
+      "src": "assets/images/3d/sportbot/env/8.webp",
       "title": "sportbot-env – 8.webp"
     }
   ],
@@ -222,25 +222,25 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalwork/env/1.webp",
+      "src": "assets/images/3d/personalwork/env/1.webp",
       "title": "personal-project-env – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalwork/env/2.webp",
+      "src": "assets/images/3d/personalwork/env/2.webp",
       "title": "personal-project-env – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalwork/env/3.webp",
+      "src": "assets/images/3d/personalwork/env/3.webp",
       "title": "personal-project-env – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalwork/env/4.webp",
+      "src": "assets/images/3d/personalwork/env/4.webp",
       "title": "personal-project-env – 4.webp"
     }
   ],
@@ -248,31 +248,31 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalwork/char/1.webp",
+      "src": "assets/images/3d/personalwork/char/1.webp",
       "title": "personal-project-char – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalwork/char/2.webp",
+      "src": "assets/images/3d/personalwork/char/2.webp",
       "title": "personal-project-char – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalwork/char/3.webp",
+      "src": "assets/images/3d/personalwork/char/3.webp",
       "title": "personal-project-char – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalwork/char/4.webp",
+      "src": "assets/images/3d/personalwork/char/4.webp",
       "title": "personal-project-char – 4.webp"
     },
     {
       "id": "5",
       "type": "image",
-      "src": "assets/images/3D/personalwork/char/5.webp",
+      "src": "assets/images/3d/personalwork/char/5.webp",
       "title": "personal-project-char – 5.webp"
     }
   ],
@@ -280,55 +280,55 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/1.webp",
+      "src": "assets/images/3d/personalwork/prop/1.webp",
       "title": "personal-project-prop – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/2.webp",
+      "src": "assets/images/3d/personalwork/prop/2.webp",
       "title": "personal-project-prop – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/3.webp",
+      "src": "assets/images/3d/personalwork/prop/3.webp",
       "title": "personal-project-prop – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/4.webp",
+      "src": "assets/images/3d/personalwork/prop/4.webp",
       "title": "personal-project-prop – 4.webp"
     },
     {
       "id": "5",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/5.webp",
+      "src": "assets/images/3d/personalwork/prop/5.webp",
       "title": "personal-project-prop – 5.webp"
     },
     {
       "id": "6",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/6.webp",
+      "src": "assets/images/3d/personalwork/prop/6.webp",
       "title": "personal-project-prop – 6.webp"
     },
     {
       "id": "7",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/7.webp",
+      "src": "assets/images/3d/personalwork/prop/7.webp",
       "title": "personal-project-prop – 7.webp"
     },
     {
       "id": "8",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/8.webp",
+      "src": "assets/images/3d/personalwork/prop/8.webp",
       "title": "personal-project-prop – 8.webp"
     },
     {
       "id": "9",
       "type": "image",
-      "src": "assets/images/3D/personalwork/prop/9.webp",
+      "src": "assets/images/3d/personalwork/prop/9.webp",
       "title": "personal-project-prop – 9.webp"
     }
   ],
@@ -336,37 +336,37 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalwork/toonshading/1.webp",
+      "src": "assets/images/3d/personalwork/toonshading/1.webp",
       "title": "personal-project-toonshading – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalwork/toonshading/2.webp",
+      "src": "assets/images/3d/personalwork/toonshading/2.webp",
       "title": "personal-project-toonshading – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalwork/toonshading/3.webp",
+      "src": "assets/images/3d/personalwork/toonshading/3.webp",
       "title": "personal-project-toonshading – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalwork/toonshading/4.webp",
+      "src": "assets/images/3d/personalwork/toonshading/4.webp",
       "title": "personal-project-toonshading – 4.webp"
     },
     {
       "id": "5",
       "type": "image",
-      "src": "assets/images/3D/personalwork/toonshading/5.webp",
+      "src": "assets/images/3d/personalwork/toonshading/5.webp",
       "title": "personal-project-toonshading – 5.webp"
     },
     {
       "id": "6",
       "type": "image",
-      "src": "assets/images/3D/personalwork/toonshading/6.webp",
+      "src": "assets/images/3d/personalwork/toonshading/6.webp",
       "title": "personal-project-toonshading – 6.webp"
     }
   ],
@@ -374,19 +374,19 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalwork/weapons/1.webp",
+      "src": "assets/images/3d/personalwork/weapons/1.webp",
       "title": "personal-project-weapon – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalwork/weapons/2.webp",
+      "src": "assets/images/3d/personalwork/weapons/2.webp",
       "title": "personal-project-weapon – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalwork/weapons/3.webp",
+      "src": "assets/images/3d/personalwork/weapons/3.webp",
       "title": "personal-project-weapon – 3.webp"
     }
   ],
@@ -394,7 +394,7 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalwork/illustration/1.webp",
+      "src": "assets/images/3d/personalwork/illustration/1.webp",
       "title": "personal-project-illustration – 1.webp"
     }
   ],
@@ -402,7 +402,7 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/booya/1.webp",
+      "src": "assets/images/3d/booya/1.webp",
       "title": "booya – 1.webp"
     }
   ],
@@ -410,25 +410,25 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/dinobees/1.webp",
+      "src": "assets/images/3d/dinobees/1.webp",
       "title": "dinobees – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/dinobees/2.webp",
+      "src": "assets/images/3d/dinobees/2.webp",
       "title": "dinobees – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/dinobees/3.webp",
+      "src": "assets/images/3d/dinobees/3.webp",
       "title": "dinobees – 3.webp"
     },
     {
       "id": "4",
       "type": "image",
-      "src": "assets/images/3D/dinobees/4.webp",
+      "src": "assets/images/3d/dinobees/4.webp",
       "title": "dinobees – 4.webp"
     }
   ],
@@ -436,19 +436,19 @@ window.GENERATED_MEDIA = {
     {
       "id": "1",
       "type": "image",
-      "src": "assets/images/3D/loconuts/1.webp",
+      "src": "assets/images/3d/loconuts/1.webp",
       "title": "loconuts – 1.webp"
     },
     {
       "id": "2",
       "type": "image",
-      "src": "assets/images/3D/loconuts/2.webp",
+      "src": "assets/images/3d/loconuts/2.webp",
       "title": "loconuts – 2.webp"
     },
     {
       "id": "3",
       "type": "image",
-      "src": "assets/images/3D/loconuts/3.webp",
+      "src": "assets/images/3d/loconuts/3.webp",
       "title": "loconuts – 3.webp"
     }
   ],

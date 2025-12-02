@@ -10,51 +10,51 @@ const path = require("path");
 const PROJECTS = [
   {
     id: "sportbot-prop",
-    folder: "assets/images/3D/sportbot/prop",
+    folder: "assets/images/3d/sportbot/prop",
   },
   {
     id: "sportbot-char",
-    folder: "assets/images/3D/sportbot/char",
+    folder: "assets/images/3d/sportbot/char",
   },
   {
     id: "sportbot-env",
-    folder: "assets/images/3D/sportbot/env",
+    folder: "assets/images/3d/sportbot/env",
   },
   {
     id: "personal-project-env",
-    folder: "assets/images/3D/personalwork/env",
+    folder: "assets/images/3d/personalwork/env",
   },
   {
     id: "personal-project-char",
-    folder: "assets/images/3D/personalwork/char",
+    folder: "assets/images/3d/personalwork/char",
   },
   {
     id: "personal-project-prop",
-    folder: "assets/images/3D/personalwork/prop",
+    folder: "assets/images/3d/personalwork/prop",
   },
   {
     id: "personal-project-toonshading",
-    folder: "assets/images/3D/personalwork/toonshading",
+    folder: "assets/images/3d/personalwork/toonshading",
   },
   {
     id: "personal-project-weapon",
-    folder: "assets/images/3D/personalwork/weapons",
+    folder: "assets/images/3d/personalwork/weapons",
   },
   {
     id: "personal-project-illustration",
-    folder: "assets/images/3D/personalwork/illustration",
+    folder: "assets/images/3d/personalwork/illustration",
   },
   {
     id: "booya",
-    folder: "assets/images/3D/booya",
+    folder: "assets/images/3d/booya",
   },
   {
     id: "dinobees",
-    folder: "assets/images/3D/dinobees",
+    folder: "assets/images/3d/dinobees",
   },
   {
     id: "loconuts",
-    folder: "assets/images/3D/loconuts",
+    folder: "assets/images/3d/loconuts",
   },
   {
     id: "motion-reels",
