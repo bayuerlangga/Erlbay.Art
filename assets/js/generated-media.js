@@ -1,491 +1,491 @@
 // Auto-generated. DO NOT edit manually!
-// Generated: 2025-11-30T15:38:49.836Z
+// Generated: 2025-12-02T06:31:31.559Z
 
 window.GENERATED_MEDIA = {
   "sportbot-prop": [
     {
-      "id": "P_Barn",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Barn.webp",
-      "title": "sportbot-prop – P_Barn.webp"
+      "src": "assets/images/3D/sportbot/prop/1.webp",
+      "title": "sportbot-prop – 1.webp"
     },
     {
-      "id": "P_Baseball_Gloves",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Baseball_Gloves.webp",
-      "title": "sportbot-prop – P_Baseball_Gloves.webp"
+      "src": "assets/images/3D/sportbot/prop/2.webp",
+      "title": "sportbot-prop – 2.webp"
     },
     {
-      "id": "P_Beach_Bucket",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Beach_Bucket.webp",
-      "title": "sportbot-prop – P_Beach_Bucket.webp"
+      "src": "assets/images/3D/sportbot/prop/3.webp",
+      "title": "sportbot-prop – 3.webp"
     },
     {
-      "id": "P_Beach_Shovel",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Beach_Shovel.webp",
-      "title": "sportbot-prop – P_Beach_Shovel.webp"
+      "src": "assets/images/3D/sportbot/prop/4.webp",
+      "title": "sportbot-prop – 4.webp"
     },
     {
-      "id": "P_Cactus",
+      "id": "5",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Cactus.webp",
-      "title": "sportbot-prop – P_Cactus.webp"
+      "src": "assets/images/3D/sportbot/prop/5.webp",
+      "title": "sportbot-prop – 5.webp"
     },
     {
-      "id": "P_Cone",
+      "id": "6",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Cone.webp",
-      "title": "sportbot-prop – P_Cone.webp"
+      "src": "assets/images/3D/sportbot/prop/6.webp",
+      "title": "sportbot-prop – 6.webp"
     },
     {
-      "id": "P_Gaming_Chairs",
+      "id": "7",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Gaming_Chairs.webp",
-      "title": "sportbot-prop – P_Gaming_Chairs.webp"
+      "src": "assets/images/3D/sportbot/prop/7.webp",
+      "title": "sportbot-prop – 7.webp"
     },
     {
-      "id": "P_Gaming_Joystick",
+      "id": "8",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Gaming_Joystick.webp",
-      "title": "sportbot-prop – P_Gaming_Joystick.webp"
+      "src": "assets/images/3D/sportbot/prop/8.webp",
+      "title": "sportbot-prop – 8.webp"
     },
     {
-      "id": "P_Gaming_Microphone",
+      "id": "9",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Gaming_Microphone.webp",
-      "title": "sportbot-prop – P_Gaming_Microphone.webp"
+      "src": "assets/images/3D/sportbot/prop/9.webp",
+      "title": "sportbot-prop – 9.webp"
     },
     {
-      "id": "P_Giant_Clam",
+      "id": "10",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Giant_Clam.webp",
-      "title": "sportbot-prop – P_Giant_Clam.webp"
+      "src": "assets/images/3D/sportbot/prop/10.webp",
+      "title": "sportbot-prop – 10.webp"
     },
     {
-      "id": "P_Grass",
+      "id": "11",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Grass.webp",
-      "title": "sportbot-prop – P_Grass.webp"
+      "src": "assets/images/3D/sportbot/prop/11.webp",
+      "title": "sportbot-prop – 11.webp"
     },
     {
-      "id": "P_Hanging_Board",
+      "id": "12",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Hanging_Board.webp",
-      "title": "sportbot-prop – P_Hanging_Board.webp"
+      "src": "assets/images/3D/sportbot/prop/12.webp",
+      "title": "sportbot-prop – 12.webp"
     },
     {
-      "id": "P_Hanging_Board_Steel",
+      "id": "13",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Hanging_Board_Steel.webp",
-      "title": "sportbot-prop – P_Hanging_Board_Steel.webp"
+      "src": "assets/images/3D/sportbot/prop/13.webp",
+      "title": "sportbot-prop – 13.webp"
     },
     {
-      "id": "P_Horse_Jump",
+      "id": "14",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Horse_Jump.webp",
-      "title": "sportbot-prop – P_Horse_Jump.webp"
+      "src": "assets/images/3D/sportbot/prop/14.webp",
+      "title": "sportbot-prop – 14.webp"
     },
     {
-      "id": "P_Mushroom",
+      "id": "15",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Mushroom.webp",
-      "title": "sportbot-prop – P_Mushroom.webp"
+      "src": "assets/images/3D/sportbot/prop/15.webp",
+      "title": "sportbot-prop – 15.webp"
     },
     {
-      "id": "P_Ring_Buoy",
+      "id": "16",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Ring_Buoy.webp",
-      "title": "sportbot-prop – P_Ring_Buoy.webp"
+      "src": "assets/images/3D/sportbot/prop/16.webp",
+      "title": "sportbot-prop – 16.webp"
     },
     {
-      "id": "P_rock",
+      "id": "17",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_rock.webp",
-      "title": "sportbot-prop – P_rock.webp"
+      "src": "assets/images/3D/sportbot/prop/17.webp",
+      "title": "sportbot-prop – 17.webp"
     },
     {
-      "id": "P_Sea_Stars",
+      "id": "18",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Sea_Stars.webp",
-      "title": "sportbot-prop – P_Sea_Stars.webp"
+      "src": "assets/images/3D/sportbot/prop/18.webp",
+      "title": "sportbot-prop – 18.webp"
     },
     {
-      "id": "P_Skipping_Rope",
+      "id": "19",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Skipping_Rope.webp",
-      "title": "sportbot-prop – P_Skipping_Rope.webp"
+      "src": "assets/images/3D/sportbot/prop/19.webp",
+      "title": "sportbot-prop – 19.webp"
     },
     {
-      "id": "P_Soccer_Card",
+      "id": "20",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Soccer_Card.webp",
-      "title": "sportbot-prop – P_Soccer_Card.webp"
+      "src": "assets/images/3D/sportbot/prop/20.webp",
+      "title": "sportbot-prop – 20.webp"
     },
     {
-      "id": "P_Soccer_Yellow",
+      "id": "21",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Soccer_Yellow.webp",
-      "title": "sportbot-prop – P_Soccer_Yellow.webp"
+      "src": "assets/images/3D/sportbot/prop/21.webp",
+      "title": "sportbot-prop – 21.webp"
     },
     {
-      "id": "P_White_Flag",
+      "id": "22",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_White_Flag.webp",
-      "title": "sportbot-prop – P_White_Flag.webp"
+      "src": "assets/images/3D/sportbot/prop/22.webp",
+      "title": "sportbot-prop – 22.webp"
     },
     {
-      "id": "P_Yoga_Ball",
+      "id": "23",
       "type": "image",
-      "src": "assets/images/3D/sportbot/prop/P_Yoga_Ball.webp",
-      "title": "sportbot-prop – P_Yoga_Ball.webp"
+      "src": "assets/images/3D/sportbot/prop/23.webp",
+      "title": "sportbot-prop – 23.webp"
     }
   ],
   "sportbot-char": [
     {
-      "id": "C_Bear_Doll",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/C_Bear_Doll.webp",
-      "title": "sportbot-char – C_Bear_Doll.webp"
+      "src": "assets/images/3D/sportbot/char/1.webp",
+      "title": "sportbot-char – 1.webp"
     },
     {
-      "id": "C_Bot_Horse_Racer",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/C_Bot_Horse_Racer.webp",
-      "title": "sportbot-char – C_Bot_Horse_Racer.webp"
+      "src": "assets/images/3D/sportbot/char/2.webp",
+      "title": "sportbot-char – 2.webp"
     },
     {
-      "id": "C_Horse",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/C_Horse.webp",
-      "title": "sportbot-char – C_Horse.webp"
+      "src": "assets/images/3D/sportbot/char/3.webp",
+      "title": "sportbot-char – 3.webp"
     },
     {
-      "id": "C_Legendary_fish",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/sportbot/char/C_Legendary_fish.webp",
-      "title": "sportbot-char – C_Legendary_fish.webp"
+      "src": "assets/images/3D/sportbot/char/4.webp",
+      "title": "sportbot-char – 4.webp"
     }
   ],
   "sportbot-env": [
     {
-      "id": "C_Stop_Spamming",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/C_Stop_Spamming.webp",
-      "title": "sportbot-env – C_Stop_Spamming.webp"
+      "src": "assets/images/3D/sportbot/env/1.webp",
+      "title": "sportbot-env – 1.webp"
     },
     {
-      "id": "E_Hula_Hoop_Messed",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_Hula_Hoop_Messed.webp",
-      "title": "sportbot-env – E_Hula_Hoop_Messed.webp"
+      "src": "assets/images/3D/sportbot/env/2.webp",
+      "title": "sportbot-env – 2.webp"
     },
     {
-      "id": "E_MMA_1",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_MMA_1.webp",
-      "title": "sportbot-env – E_MMA_1.webp"
+      "src": "assets/images/3D/sportbot/env/3.webp",
+      "title": "sportbot-env – 3.webp"
     },
     {
-      "id": "E_MMA_2",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_MMA_2.webp",
-      "title": "sportbot-env – E_MMA_2.webp"
+      "src": "assets/images/3D/sportbot/env/4.webp",
+      "title": "sportbot-env – 4.webp"
     },
     {
-      "id": "E_Penalty_Feud",
+      "id": "5",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_Penalty_Feud.webp",
-      "title": "sportbot-env – E_Penalty_Feud.webp"
+      "src": "assets/images/3D/sportbot/env/5.webp",
+      "title": "sportbot-env – 5.webp"
     },
     {
-      "id": "E_Penalty_Feud_2",
+      "id": "6",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_Penalty_Feud_2.webp",
-      "title": "sportbot-env – E_Penalty_Feud_2.webp"
+      "src": "assets/images/3D/sportbot/env/6.webp",
+      "title": "sportbot-env – 6.webp"
     },
     {
-      "id": "E_Rage_Quit",
+      "id": "7",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_Rage_Quit.webp",
-      "title": "sportbot-env – E_Rage_Quit.webp"
+      "src": "assets/images/3D/sportbot/env/7.webp",
+      "title": "sportbot-env – 7.webp"
     },
     {
-      "id": "E_Slippery_Penalty",
+      "id": "8",
       "type": "image",
-      "src": "assets/images/3D/sportbot/env/E_Slippery_Penalty.webp",
-      "title": "sportbot-env – E_Slippery_Penalty.webp"
+      "src": "assets/images/3D/sportbot/env/8.webp",
+      "title": "sportbot-env – 8.webp"
     }
   ],
   "personal-project-env": [
     {
-      "id": "final-landmark-cloud-composed-3",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalproject/env/final-landmark-cloud-composed-3.webp",
-      "title": "personal-project-env – final-landmark-cloud-composed-3.webp"
+      "src": "assets/images/3D/personalwork/env/1.webp",
+      "title": "personal-project-env – 1.webp"
     },
     {
-      "id": "forestentrance",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalproject/env/forestentrance.webp",
-      "title": "personal-project-env – forestentrance.webp"
+      "src": "assets/images/3D/personalwork/env/2.webp",
+      "title": "personal-project-env – 2.webp"
     },
     {
-      "id": "Fort",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalproject/env/Fort.webp",
-      "title": "personal-project-env – Fort.webp"
+      "src": "assets/images/3D/personalwork/env/3.webp",
+      "title": "personal-project-env – 3.webp"
     },
     {
-      "id": "Ruin",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalproject/env/Ruin.webp",
-      "title": "personal-project-env – Ruin.webp"
+      "src": "assets/images/3D/personalwork/env/4.webp",
+      "title": "personal-project-env – 4.webp"
     }
   ],
   "personal-project-char": [
     {
-      "id": "bayu-erlangga-cwi-rb",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalproject/char/bayu-erlangga-cwi-rb.webp",
-      "title": "personal-project-char – bayu-erlangga-cwi-rb.webp"
+      "src": "assets/images/3D/personalwork/char/1.webp",
+      "title": "personal-project-char – 1.webp"
     },
     {
-      "id": "cubical character",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalproject/char/cubical character.webp",
-      "title": "personal-project-char – cubical character.webp"
+      "src": "assets/images/3D/personalwork/char/2.webp",
+      "title": "personal-project-char – 2.webp"
     },
     {
-      "id": "cwi_BW",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalproject/char/cwi_BW.webp",
-      "title": "personal-project-char – cwi_BW.webp"
+      "src": "assets/images/3D/personalwork/char/3.webp",
+      "title": "personal-project-char – 3.webp"
     },
     {
-      "id": "toon",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalproject/char/toon.webp",
-      "title": "personal-project-char – toon.webp"
+      "src": "assets/images/3D/personalwork/char/4.webp",
+      "title": "personal-project-char – 4.webp"
     },
     {
-      "id": "v2",
+      "id": "5",
       "type": "image",
-      "src": "assets/images/3D/personalproject/char/v2.webp",
-      "title": "personal-project-char – v2.webp"
+      "src": "assets/images/3D/personalwork/char/5.webp",
+      "title": "personal-project-char – 5.webp"
     }
   ],
   "personal-project-prop": [
     {
-      "id": "back pack",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/back pack.webp",
-      "title": "personal-project-prop – back pack.webp"
+      "src": "assets/images/3D/personalwork/prop/1.webp",
+      "title": "personal-project-prop – 1.webp"
     },
     {
-      "id": "barrel half",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/barrel half.webp",
-      "title": "personal-project-prop – barrel half.webp"
+      "src": "assets/images/3D/personalwork/prop/2.webp",
+      "title": "personal-project-prop – 2.webp"
     },
     {
-      "id": "barrel",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/barrel.webp",
-      "title": "personal-project-prop – barrel.webp"
+      "src": "assets/images/3D/personalwork/prop/3.webp",
+      "title": "personal-project-prop – 3.webp"
     },
     {
-      "id": "bayu-erlangga-hydrant-b",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/bayu-erlangga-hydrant-b.webp",
-      "title": "personal-project-prop – bayu-erlangga-hydrant-b.webp"
+      "src": "assets/images/3D/personalwork/prop/4.webp",
+      "title": "personal-project-prop – 4.webp"
     },
     {
-      "id": "hydrant wire hw",
+      "id": "5",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/hydrant wire hw.webp",
-      "title": "personal-project-prop – hydrant wire hw.webp"
+      "src": "assets/images/3D/personalwork/prop/5.webp",
+      "title": "personal-project-prop – 5.webp"
     },
     {
-      "id": "potion1",
+      "id": "6",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/potion1.webp",
-      "title": "personal-project-prop – potion1.webp"
+      "src": "assets/images/3D/personalwork/prop/6.webp",
+      "title": "personal-project-prop – 6.webp"
     },
     {
-      "id": "P_Ballista_Tower",
+      "id": "7",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/P_Ballista_Tower.webp",
-      "title": "personal-project-prop – P_Ballista_Tower.webp"
+      "src": "assets/images/3D/personalwork/prop/7.webp",
+      "title": "personal-project-prop – 7.webp"
     },
     {
-      "id": "scrools",
+      "id": "8",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/scrools.webp",
-      "title": "personal-project-prop – scrools.webp"
+      "src": "assets/images/3D/personalwork/prop/8.webp",
+      "title": "personal-project-prop – 8.webp"
     },
     {
-      "id": "watre well",
+      "id": "9",
       "type": "image",
-      "src": "assets/images/3D/personalproject/prop/watre well.webp",
-      "title": "personal-project-prop – watre well.webp"
+      "src": "assets/images/3D/personalwork/prop/9.webp",
+      "title": "personal-project-prop – 9.webp"
     }
   ],
   "personal-project-toonshading": [
     {
-      "id": "GumballMachine",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalproject/toonshading/GumballMachine.webp",
-      "title": "personal-project-toonshading – GumballMachine.webp"
+      "src": "assets/images/3D/personalwork/toonshading/1.webp",
+      "title": "personal-project-toonshading – 1.webp"
     },
     {
-      "id": "P_Traffic_Baricade1",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalproject/toonshading/P_Traffic_Baricade1.webp",
-      "title": "personal-project-toonshading – P_Traffic_Baricade1.webp"
+      "src": "assets/images/3D/personalwork/toonshading/2.webp",
+      "title": "personal-project-toonshading – 2.webp"
     },
     {
-      "id": "P_Traffic_Cone",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalproject/toonshading/P_Traffic_Cone.webp",
-      "title": "personal-project-toonshading – P_Traffic_Cone.webp"
+      "src": "assets/images/3D/personalwork/toonshading/3.webp",
+      "title": "personal-project-toonshading – 3.webp"
     },
     {
-      "id": "RENDER_P_STATION1",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/personalproject/toonshading/RENDER_P_STATION1.webp",
-      "title": "personal-project-toonshading – RENDER_P_STATION1.webp"
+      "src": "assets/images/3D/personalwork/toonshading/4.webp",
+      "title": "personal-project-toonshading – 4.webp"
     },
     {
-      "id": "RENDER_P_STATION2",
+      "id": "5",
       "type": "image",
-      "src": "assets/images/3D/personalproject/toonshading/RENDER_P_STATION2.webp",
-      "title": "personal-project-toonshading – RENDER_P_STATION2.webp"
+      "src": "assets/images/3D/personalwork/toonshading/5.webp",
+      "title": "personal-project-toonshading – 5.webp"
     },
     {
-      "id": "RENDER_P_STATION_F",
+      "id": "6",
       "type": "image",
-      "src": "assets/images/3D/personalproject/toonshading/RENDER_P_STATION_F.webp",
-      "title": "personal-project-toonshading – RENDER_P_STATION_F.webp"
+      "src": "assets/images/3D/personalwork/toonshading/6.webp",
+      "title": "personal-project-toonshading – 6.webp"
     }
   ],
   "personal-project-weapon": [
     {
-      "id": "BloodyKnives",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalproject/weapons/BloodyKnives.webp",
-      "title": "personal-project-weapon – BloodyKnives.webp"
+      "src": "assets/images/3D/personalwork/weapons/1.webp",
+      "title": "personal-project-weapon – 1.webp"
     },
     {
-      "id": "prev9",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/personalproject/weapons/prev9.webp",
-      "title": "personal-project-weapon – prev9.webp"
+      "src": "assets/images/3D/personalwork/weapons/2.webp",
+      "title": "personal-project-weapon – 2.webp"
     },
     {
-      "id": "SaberKnive",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/personalproject/weapons/SaberKnive.webp",
-      "title": "personal-project-weapon – SaberKnive.webp"
+      "src": "assets/images/3D/personalwork/weapons/3.webp",
+      "title": "personal-project-weapon – 3.webp"
     }
   ],
   "personal-project-illustration": [
     {
-      "id": "illustration Edited",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/personalproject/illustration/illustration Edited.webp",
-      "title": "personal-project-illustration – illustration Edited.webp"
+      "src": "assets/images/3D/personalwork/illustration/1.webp",
+      "title": "personal-project-illustration – 1.webp"
     }
   ],
   "booya": [
     {
-      "id": "C_GOO_FROG",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/booya/C_GOO_FROG.webp",
-      "title": "booya – C_GOO_FROG.webp"
+      "src": "assets/images/3D/booya/1.webp",
+      "title": "booya – 1.webp"
     }
   ],
   "dinobees": [
     {
-      "id": "P_traveling_bag",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/dinobees/P_traveling_bag.webp",
-      "title": "dinobees – P_traveling_bag.webp"
+      "src": "assets/images/3D/dinobees/1.webp",
+      "title": "dinobees – 1.webp"
     },
     {
-      "id": "P_Tree_1",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/dinobees/P_Tree_1.webp",
-      "title": "dinobees – P_Tree_1.webp"
+      "src": "assets/images/3D/dinobees/2.webp",
+      "title": "dinobees – 2.webp"
     },
     {
-      "id": "P_Tree_2",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/dinobees/P_Tree_2.webp",
-      "title": "dinobees – P_Tree_2.webp"
+      "src": "assets/images/3D/dinobees/3.webp",
+      "title": "dinobees – 3.webp"
     },
     {
-      "id": "P_Tree_3",
+      "id": "4",
       "type": "image",
-      "src": "assets/images/3D/dinobees/P_Tree_3.webp",
-      "title": "dinobees – P_Tree_3.webp"
+      "src": "assets/images/3D/dinobees/4.webp",
+      "title": "dinobees – 4.webp"
     }
   ],
   "loconuts": [
     {
-      "id": "C_LN_Black_Sheep",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/3D/loconuts/C_LN_Black_Sheep.webp",
-      "title": "loconuts – C_LN_Black_Sheep.webp"
+      "src": "assets/images/3D/loconuts/1.webp",
+      "title": "loconuts – 1.webp"
     },
     {
-      "id": "C_LN_Spider",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/3D/loconuts/C_LN_Spider.webp",
-      "title": "loconuts – C_LN_Spider.webp"
+      "src": "assets/images/3D/loconuts/2.webp",
+      "title": "loconuts – 2.webp"
     },
     {
-      "id": "C_LN_Squirrel",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/3D/loconuts/C_LN_Squirrel.webp",
-      "title": "loconuts – C_LN_Squirrel.webp"
+      "src": "assets/images/3D/loconuts/3.webp",
+      "title": "loconuts – 3.webp"
     }
   ],
   "motion-reels": [
     {
-      "id": "reels",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/motionReels/reels.webp",
-      "title": "motion-reels – reels.webp"
+      "src": "assets/images/motionReels/1.webp",
+      "title": "motion-reels – 1.webp"
     }
   ],
   "personal-project-digital-painting": [
     {
-      "id": "digital1",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/personalproject/digitalpainting/digital1.webp",
-      "title": "personal-project-digital-painting – digital1.webp"
+      "src": "assets/images/personalproject/digitalpainting/1.webp",
+      "title": "personal-project-digital-painting – 1.webp"
     }
   ],
   "personal-project-sketch": [
     {
-      "id": "sketch (1)",
+      "id": "1",
       "type": "image",
-      "src": "assets/images/personalproject/sketch/sketch (1).webp",
-      "title": "personal-project-sketch – sketch (1).webp"
+      "src": "assets/images/personalproject/sketch/1.webp",
+      "title": "personal-project-sketch – 1.webp"
     },
     {
-      "id": "sketch (2)",
+      "id": "2",
       "type": "image",
-      "src": "assets/images/personalproject/sketch/sketch (2).webp",
-      "title": "personal-project-sketch – sketch (2).webp"
+      "src": "assets/images/personalproject/sketch/2.webp",
+      "title": "personal-project-sketch – 2.webp"
     },
     {
-      "id": "sketch (3)",
+      "id": "3",
       "type": "image",
-      "src": "assets/images/personalproject/sketch/sketch (3).webp",
-      "title": "personal-project-sketch – sketch (3).webp"
+      "src": "assets/images/personalproject/sketch/3.webp",
+      "title": "personal-project-sketch – 3.webp"
     }
   ]
 };

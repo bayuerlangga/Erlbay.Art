@@ -22,27 +22,27 @@ const PROJECTS = [
   },
   {
     id: "personal-project-env",
-    folder: "assets/images/3D/personalproject/env",
+    folder: "assets/images/3D/personalwork/env",
   },
   {
     id: "personal-project-char",
-    folder: "assets/images/3D/personalproject/char",
+    folder: "assets/images/3D/personalwork/char",
   },
   {
     id: "personal-project-prop",
-    folder: "assets/images/3D/personalproject/prop",
+    folder: "assets/images/3D/personalwork/prop",
   },
   {
     id: "personal-project-toonshading",
-    folder: "assets/images/3D/personalproject/toonshading",
+    folder: "assets/images/3D/personalwork/toonshading",
   },
   {
     id: "personal-project-weapon",
-    folder: "assets/images/3D/personalproject/weapons",
+    folder: "assets/images/3D/personalwork/weapons",
   },
   {
     id: "personal-project-illustration",
-    folder: "assets/images/3D/personalproject/illustration",
+    folder: "assets/images/3D/personalwork/illustration",
   },
   {
     id: "booya",
